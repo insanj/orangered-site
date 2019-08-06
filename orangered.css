@@ -28,7 +28,7 @@ img.o {
 	-webkit-border-radius: 25px;
 	-moz-border-radius: 25px;
 
-	background: url('http://insanj.com/orangered/images/center.png') repeat;
+	background: url('images/center.png') repeat;
 	background-size: 10%;
 }
 
